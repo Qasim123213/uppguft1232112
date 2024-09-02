@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(158, 11, 231, 0.629);
+
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(50, 50, 50);
+    font-size: 1.2rem;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(8, 179, 145);
+    font-size: 1.7rem
+}
+
+img {
+    width: 600px;
+    max-width: 50vh;
+}
